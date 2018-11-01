@@ -1,6 +1,6 @@
 (librepcb_library b404d66b-62ea-4e55-97fd-bbc1be7c297a
  (name "Microchip Technology / Atmel")
- (description "Integrated Circuits and more, including Atmel products. Inofficial.")
+ (description "Integrated circuits and more (inofficial).")
  (keywords "")
  (author "LibrePCB")
  (version "0.1")
