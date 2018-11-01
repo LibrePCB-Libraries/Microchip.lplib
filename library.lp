@@ -1,0 +1,10 @@
+(librepcb_library b404d66b-62ea-4e55-97fd-bbc1be7c297a
+ (name "Microchip")
+ (description "Integrated Circuits and more, including Atmel products.\n\nInofficial library.")
+ (keywords "")
+ (author "LibrePCB")
+ (version "0.1")
+ (created 2018-11-01T20:46:05Z)
+ (deprecated false)
+ (url "https://github.com/LibrePCB-Libraries/Microchip.lplib")
+)
