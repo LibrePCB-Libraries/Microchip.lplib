@@ -226,7 +226,7 @@
    (vertex (position 4.568 -13.435) (angle 0.0))
   )
   (polygon 7344aad6-3485-4450-abe1-4579f7c0422e (layer top_courtyard)
-   (width 0.1) (fill false) (grab_area true)
+   (width 0.1) (fill false) (grab_area false)
    (vertex (position 9.902 -14.347) (angle 0.0))
    (vertex (position -9.902 -14.347) (angle 0.0))
    (vertex (position -9.902 13.585) (angle 0.0))
