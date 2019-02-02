@@ -1,5 +1,5 @@
 (librepcb_package e9004848-2c33-4392-af8b-aed22b5adb89
- (name "Microchip RN2483")
+ (name "RN2483")
  (description "Low-Power Long Range LoRa Technology Transceiver Module.")
  (keywords "rn2483,rn2483a,lora,lorawan,transceiver")
  (author "Danilo B.")
