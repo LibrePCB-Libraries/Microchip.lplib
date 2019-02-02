@@ -218,6 +218,7 @@
    (vertex (position 8.99 13.435) (angle 0.0))
    (vertex (position -8.99 13.435) (angle 0.0))
    (vertex (position -8.99 12.823) (angle 0.0))
+   (vertex (position -9.552 12.823) (angle 0.0))
   )
   (polygon ff021302-b053-4fb3-8ad9-bf3ca44121db (layer top_placement)
    (width 0.2) (fill false) (grab_area false)
