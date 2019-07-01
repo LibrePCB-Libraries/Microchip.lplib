@@ -4,7 +4,7 @@
 
 Integrated Circuits and more, including Atmel products.
 
-Inofficial library, not endorsed by Microchip Technology Inc.
+Unofficial library, not endorsed by Microchip Technology Inc.
 
 ## License
 
