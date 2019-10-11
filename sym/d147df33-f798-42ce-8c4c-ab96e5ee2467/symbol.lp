@@ -1,7 +1,7 @@
 (librepcb_symbol d147df33-f798-42ce-8c4c-ab96e5ee2467
  (name "ATmegaxx4PB_physical")
  (description "Symbol for ATmegaxx4PB AVR microcontrollers with physical pin placement")
- (keywords "ATmega324PB,Atmel, AVR")
+ (keywords "ATmega324PB,Atmel, AVR,microcontroller")
  (author "doom")
  (version "0.1")
  (created 2019-10-07T14:21:53Z)

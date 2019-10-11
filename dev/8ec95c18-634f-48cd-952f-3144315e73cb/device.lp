@@ -1,7 +1,7 @@
 (librepcb_device 8ec95c18-634f-48cd-952f-3144315e73cb
  (name "ATmega324PB-Ax")
  (description "ATmega324PB in TQFP44 package")
- (keywords "Atmel,AVR,ATmega,ATmega324PB,TQFP")
+ (keywords "Atmel,AVR,ATmega,ATmega324PB,TQFP,microncontroller")
  (author "doom")
  (version "0.1")
  (created 2019-10-07T16:09:34Z)

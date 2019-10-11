@@ -1,7 +1,7 @@
 (librepcb_symbol d9e1bf80-dc50-44d7-abf0-5f44195ac5cb
  (name "ATmegaxx4PB_functional")
  (description "Symbol for ATmegaxx4PB AVR microcontrollers with functional pin placement")
- (keywords "ATmega324PB,Atmel, AVR")
+ (keywords "ATmega324PB,Atmel, AVR,microcontroller")
  (author "doom")
  (version "0.1")
  (created 2019-10-07T15:09:34Z)
