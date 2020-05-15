@@ -10,7 +10,7 @@
  (schematic_only false)
  (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
  (prefix "U")
- (signal 1c5b3e3a-02f2-46c2-a2fe-7e8d0ef7320d (name "PB4/PCINT4/ADC2") (role passive)
+ (signal 1c5b3e3a-02f2-46c2-a2fe-7e8d0ef7320d (name "PB4/PCINT4/OC1B/ADC2") (role passive)
   (required false) (negated false) (clock false) (forced_net "")
  )
  (signal 21b8b69b-a3e3-45ae-939e-b46daf416783 (name "GND") (role passive)
