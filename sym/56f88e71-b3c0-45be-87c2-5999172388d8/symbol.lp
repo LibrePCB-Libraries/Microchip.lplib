@@ -1,9 +1,9 @@
 (librepcb_symbol 56f88e71-b3c0-45be-87c2-5999172388d8
  (name "ATtiny85")
- (description "Atmel 8-bit AVR Microcontroller with 8 bytes in-system programmable flash.")
+ (description "Atmel 8-bit AVR Microcontroller with 8 kilobytes in-system programmable flash.")
  (keywords "attiny,atmel,avr,8bit")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.2")
  (created 2018-11-01T13:51:44Z)
  (deprecated false)
  (category 22151601-c2d9-419a-87bc-266f9c7c3459)
