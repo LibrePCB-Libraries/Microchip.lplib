@@ -1,6 +1,6 @@
 (librepcb_device 7afdd043-0bd6-4228-8d6d-8bd2f87ec1a2
- (name "MCP73832")
- (description "The MCP73832 is a single-cell Li-Ion/Li-Polymer battery charge controller.")
+ (name "MCP73832/OT")
+ (description "The MCP73832 is a single-cell Li-Ion/Li-Polymer battery charge controller.\n\nSOT-23-5 package variant.")
  (keywords "MCP73832,liion,li-ion,lipo,li-po")
  (author "Danilo Bargen")
  (version "0.1")

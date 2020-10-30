@@ -1,6 +1,6 @@
 (librepcb_device d12e59ec-5ec4-430a-aacd-d107c388ac1e
- (name "MCP73831")
- (description "The MCP73831 is a single-cell Li-Ion/Li-Polymer battery charge controller.")
+ (name "MCP73831/OT")
+ (description "The MCP73831 is a single-cell Li-Ion/Li-Polymer battery charge controller.\n\nSOT-23-5 package variant.")
  (keywords "MCP73831,liion,li-ion,lipo,li-po")
  (author "Danilo Bargen")
  (version "0.1")
