@@ -1,6 +1,6 @@
 (librepcb_device bca8bc39-0951-4e50-8469-6770afb75f31
  (name "PIC10F204/6-\?/MC")
- (description "Microchip 6-Pin 8-bit Microcontrollers from the PIC 10F family with PDIP-8 package:\n\n- PIC10F204-I/MC\n- PIC10F204-E/MC\n- PIC10F206-I/MC\n- PIC10F206-E/MC")
+ (description "Microchip 6-Pin 8-bit Microcontrollers from the PIC 10F family with DFN-8 package:\n\n- PIC10F204-I/MC\n- PIC10F204-E/MC\n- PIC10F206-I/MC\n- PIC10F206-E/MC")
  (keywords "microchip,pic,10f")
  (author "Hannes Badertscher")
  (version "0.1")
