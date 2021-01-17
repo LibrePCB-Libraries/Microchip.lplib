@@ -3,7 +3,7 @@
  (description "Integrated circuits and more (unofficial).")
  (keywords "")
  (author "LibrePCB")
- (version "0.2.1")
+ (version "0.2.2")
  (created 2018-11-01T20:46:05Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/Microchip.lplib")
