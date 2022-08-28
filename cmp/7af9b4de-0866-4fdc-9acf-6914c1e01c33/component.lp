@@ -1,9 +1,9 @@
 (librepcb_component 7af9b4de-0866-4fdc-9acf-6914c1e01c33
- (name "MCP7383[12]")
- (description "The MCP73831 and MCP73832 are single-cell Li-Ion/Li-Polymer battery charge controllers.")
- (keywords "MCP73831,MCP73832,liion,li-ion,lipo,li-po")
+ (name "MCP73831")
+ (description "The MCP73831 is a single-cell Li-Ion/Li-Polymer battery charge controller.")
+ (keywords "MCP7383,liion,li-ion,lipo,li-po")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.1.1")
  (created 2020-10-30T00:10:17Z)
  (deprecated false)
  (category ffe32a67-4ee5-4494-9936-c9e4c0b147bc)
