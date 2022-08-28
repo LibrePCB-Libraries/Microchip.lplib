@@ -3,7 +3,7 @@
  (description "Atmel 8-bit AVR Microcontroller with 8 pins.")
  (keywords "attiny,atmel,avr,8bit")
  (author "Danilo Bargen")
- (version "0.2")
+ (version "0.1.1")
  (created 2018-11-01T13:51:44Z)
  (deprecated false)
  (category 22151601-c2d9-419a-87bc-266f9c7c3459)
