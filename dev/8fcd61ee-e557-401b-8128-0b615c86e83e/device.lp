@@ -1,9 +1,9 @@
 (librepcb_device 8fcd61ee-e557-401b-8128-0b615c86e83e
- (name "ATtiny13a-20Px")
- (description "Atmel ATtiny13a 20MHz 1.8-5.5V PDIP")
+ (name "ATtiny13A-PU")
+ (description "Atmel ATtiny13A 20MHz 1.8-5.5V PDIP")
  (keywords "attiny,attiny13,attiny13a,avr,atmel,microcontroller")
  (author "Steve Sanbeg")
- (version "0.1")
+ (version "0.1.1")
  (created 2020-05-15T00:36:17Z)
  (deprecated false)
  (category 22151601-c2d9-419a-87bc-266f9c7c3459)
