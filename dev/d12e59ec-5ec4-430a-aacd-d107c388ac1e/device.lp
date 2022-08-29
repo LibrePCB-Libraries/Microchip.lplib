@@ -1,9 +1,9 @@
 (librepcb_device d12e59ec-5ec4-430a-aacd-d107c388ac1e
- (name "MCP73831/OT")
- (description "The MCP73831 is a single-cell Li-Ion/Li-Polymer battery charge controller.\n\nSOT-23-5 package variant.")
+ (name "MCP73831T-2ACI/OT")
+ (description "The MCP73831 is a single-cell Li-Ion/Li-Polymer battery charge controller.\n\nVREG: 4.20V\nOption: AC\nPackage: SOT-23-5, tape&reel")
  (keywords "MCP73831,liion,li-ion,lipo,li-po")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.1.1")
  (created 2020-10-30T00:12:16Z)
  (deprecated false)
  (category ffe32a67-4ee5-4494-9936-c9e4c0b147bc)
