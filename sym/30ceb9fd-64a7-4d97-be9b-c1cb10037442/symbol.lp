@@ -100,6 +100,6 @@
   (align left bottom) (height 2.5) (position -27.94 25.4) (rotation 0.0)
  )
  (text 4ffa0993-ccbe-4ce1-8de5-4fcd2b1ef9b9 (layer sym_values) (value "{{VALUE}}")
-  (align left top) (height 2.5) (position 17.78 -22.86) (rotation 0.0)
+  (align left top) (height 2.5) (position -27.94 -22.86) (rotation 0.0)
  )
 )
