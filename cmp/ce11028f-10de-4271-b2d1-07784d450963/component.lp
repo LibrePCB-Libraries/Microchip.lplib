@@ -1,5 +1,5 @@
 (librepcb_component ce11028f-10de-4271-b2d1-07784d450963
- (name "ATmega(4/8/16/32)8(A)(P) 28-pin")
+ (name "ATmega(4/8/16/32)8(P)(A) 28-pin")
  (description "")
  (keywords "atmega,atmel,avr,8bit,RISC")
  (author "Jonathan BAUDIN")

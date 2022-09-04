@@ -1,5 +1,5 @@
 (librepcb_device d94589ee-b25d-413c-94f0-240ad6d3b1fb
- (name "ATmega(4/8/16/32)8(A)(P)")
+ (name "ATmega(4/8/16/32)8(P)(A)")
  (description "ATmega48A\nATmega48PA\nATmega88A\nATmega88PA\nATmega168A\nATmega168PA\nATmega328\nATmega328P\n\nPDIP Package\n\nDatasheet : https://ww1.microchip.com/downloads/en/DeviceDoc/ATmega48A-PA-88A-PA-168A-PA-328-P-DS-DS40002061B.pdf")
  (keywords "atmega,atmel,avr,8bit,RISC")
  (author "Jonathan BAUDIN")
