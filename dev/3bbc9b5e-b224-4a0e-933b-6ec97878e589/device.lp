@@ -1,11 +1,12 @@
 (librepcb_device 3bbc9b5e-b224-4a0e-933b-6ec97878e589
- (name "PIC10F204/6-\?/P")
+ (name "PIC10F204/6-?/P")
  (description "Microchip 6-Pin 8-bit Microcontrollers from the PIC 10F family with PDIP-8 package:\n\n- PIC10F204-I/P\n- PIC10F204-E/P\n- PIC10F206-I/P\n- PIC10F206-E/P")
  (keywords "microchip,pic,10f")
  (author "Hannes Badertscher")
  (version "0.1")
  (created 2018-11-13T14:55:26Z)
  (deprecated false)
+ (generated_by "")
  (category 22151601-c2d9-419a-87bc-266f9c7c3459)
  (component 7397d7dd-01ad-417d-b274-0b57e7483e18)
  (package d1e4b152-0fd5-4ced-9c46-691c0e1d7105)

@@ -1,11 +1,12 @@
 (librepcb_device fa84ab09-62dc-4e9c-8306-8ea1959a6b65
- (name "PIC10F200/2-\?/P")
+ (name "PIC10F200/2-?/P")
  (description "Microchip 6-Pin 8-bit Microcontrollers from the PIC 10F family with PDIP-8 package:\n\n- PIC10F200-I/P\n- PIC10F200-E/P\n- PIC10F202-I/P\n- PIC10F202-E/P")
  (keywords "microchip,pic,10f")
  (author "Hannes Badertscher")
  (version "0.1")
  (created 2018-11-13T14:48:17Z)
  (deprecated false)
+ (generated_by "")
  (category 22151601-c2d9-419a-87bc-266f9c7c3459)
  (component 2108b6b9-4d08-4cd5-9e47-e27377ef194d)
  (package d1e4b152-0fd5-4ced-9c46-691c0e1d7105)
