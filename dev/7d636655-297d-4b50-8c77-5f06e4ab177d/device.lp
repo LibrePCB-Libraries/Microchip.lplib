@@ -1,11 +1,12 @@
 (librepcb_device 7d636655-297d-4b50-8c77-5f06e4ab177d
- (name "PIC10F200/2-\?/MC")
+ (name "PIC10F200/2-?/MC")
  (description "Microchip 8-Pin 8-bit Microcontrollers from the PIC 10F family with DFN-8 package:\n\n- PIC10F200-I/MC\n- PIC10F200-E/MC\n- PIC10F202-I/MC\n- PIC10F202-E/MC")
  (keywords "microchip,pic,10f")
  (author "Hannes Badertscher")
  (version "0.1")
  (created 2019-01-23T14:11:43Z)
  (deprecated false)
+ (generated_by "")
  (category 22151601-c2d9-419a-87bc-266f9c7c3459)
  (component 2108b6b9-4d08-4cd5-9e47-e27377ef194d)
  (package 87d07153-809f-4056-9d1c-5fbbc1dc8a95)

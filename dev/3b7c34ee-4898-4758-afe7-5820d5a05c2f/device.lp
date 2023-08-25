@@ -1,11 +1,12 @@
 (librepcb_device 3b7c34ee-4898-4758-afe7-5820d5a05c2f
- (name "PIC10F204/6(T)-\?/OT")
+ (name "PIC10F204/6(T)-?/OT")
  (description "Microchip 6-Pin 8-bit Microcontrollers from the PIC 10F family with SOT 23-6 package:\n\n- PIC10F204-I/OT\n- PIC10F204-E/OT\n- PIC10F204T-I/OT\n- PIC10F204T-E/OT\n- PIC10F206-I/OT\n- PIC10F206-E/OT\n- PIC10F206T-I/OT\n- PIC10F206T-E/OT")
  (keywords "microchip,pic,10f")
  (author "Hannes Badertscher")
  (version "0.1")
  (created 2018-11-13T15:01:10Z)
  (deprecated false)
+ (generated_by "")
  (category 22151601-c2d9-419a-87bc-266f9c7c3459)
  (component 7397d7dd-01ad-417d-b274-0b57e7483e18)
  (package f8289e96-50c9-4db1-8def-e85f5e652c2c)

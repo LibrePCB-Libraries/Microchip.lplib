@@ -1,11 +1,12 @@
 (librepcb_device 20d23feb-18f3-43e9-854e-9422dad532be
- (name "PIC10(L)F32x(T)-\?/P")
+ (name "PIC10(L)F32x(T)-?/P")
  (description "Microchip 8-Pin 8-bit Microcontrollers from the PIC 10F family in a DIP-8 package:\n\n- 10(L)F320\n- 10(L)F322")
  (keywords "microchip,pic,10f,10f320,10f322,10lf320,10lf322")
  (author "Hannes Badertscher")
  (version "0.1")
  (created 2019-01-23T06:13:31Z)
  (deprecated false)
+ (generated_by "")
  (category 22151601-c2d9-419a-87bc-266f9c7c3459)
  (component 28cd8388-1e91-42e3-8588-3ea174013fba)
  (package d1e4b152-0fd5-4ced-9c46-691c0e1d7105)
