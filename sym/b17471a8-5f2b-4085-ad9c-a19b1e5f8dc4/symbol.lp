@@ -48,7 +48,7 @@
   (name_position 3.81 0.0) (name_rotation 0.0) (name_height 2.5)
   (name_align left center)
  )
- (pin 2cbbe3ca-2ae8-46be-ae66-6040ca72a323 (name "nRESET")
+ (pin 2cbbe3ca-2ae8-46be-ae66-6040ca72a323 (name "!RESET")
   (position -15.24 43.18) (rotation 0.0) (length 2.54)
   (name_position 3.81 0.0) (name_rotation 0.0) (name_height 2.5)
   (name_align left center)

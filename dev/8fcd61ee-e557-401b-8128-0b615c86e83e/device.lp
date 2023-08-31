@@ -18,4 +18,6 @@
  (pad a193ba1f-6f5c-4bff-b5d0-93810ce154c4 (signal 439a6b60-cb0c-4015-b3d0-56bcba9d05f0))
  (pad c8ce3c8f-d3ca-484a-aeea-882badbfd039 (signal 9264c42b-76c4-4b0a-8ac4-1204371363e8))
  (pad fc6081c5-2de5-4306-916b-c4f860e790d2 (signal a0dc9e3a-c2a9-4389-b1e9-261be6d9f70f))
+ (part "ATtiny13A-PU" (manufacturer "Microchip Technology")
+ )
 )

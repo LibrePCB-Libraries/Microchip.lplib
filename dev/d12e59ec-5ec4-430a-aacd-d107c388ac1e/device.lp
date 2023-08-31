@@ -15,4 +15,6 @@
  (pad 71df5b0a-353c-4d80-b3b2-64ae4ef9be41 (signal 7cf8943a-fece-45e7-8532-4703d5c4ec38))
  (pad 9cb2f3ab-e3d2-4b3a-8c4a-1eb12a0088ae (signal 304bd7ea-5f84-436b-82f9-66b6270da73a))
  (pad a4df33fa-f948-4e0d-862a-4298306fce44 (signal 2fbc7f00-b2f2-4fdd-9a22-737ef88ba588))
+ (part "MCP73831T-2ACI/OT" (manufacturer "Microchip Technology")
+ )
 )

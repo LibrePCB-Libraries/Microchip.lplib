@@ -18,4 +18,6 @@
  (pad a193ba1f-6f5c-4bff-b5d0-93810ce154c4 (signal a030c270-10ab-4eb5-be25-ac65c47e117a))
  (pad c8ce3c8f-d3ca-484a-aeea-882badbfd039 (signal 54787532-5be0-41d8-b492-9a2f8c096fdf))
  (pad fc6081c5-2de5-4306-916b-c4f860e790d2 (signal 5b06f395-72f9-443d-99d4-2dd183c5b917))
+ (part "ATtiny85V-10PU" (manufacturer "Microchip Technology")
+ )
 )

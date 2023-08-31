@@ -23,7 +23,7 @@
  (signal 54787532-5be0-41d8-b492-9a2f8c096fdf (name "PB1/MISO/PCINT1") (role passive)
   (required false) (negated false) (clock false) (forced_net "")
  )
- (signal 96cfe986-80d7-46c0-9aec-26b96682d76c (name "PB5/PCINT5/NRESET/ADC0") (role passive)
+ (signal 96cfe986-80d7-46c0-9aec-26b96682d76c (name "PB5/PCINT5/!RESET/ADC0") (role passive)
   (required false) (negated false) (clock false) (forced_net "")
  )
  (signal e31346d6-b042-48af-bc10-f6453f960e62 (name "PB3/PCINT3/ADC3") (role passive)

@@ -59,7 +59,7 @@
  (signal dd8120a5-635a-4afa-9b2b-1c9099c1a4e6 (name "PA6/ADC6") (role passive)
   (required false) (negated false) (clock false) (forced_net "")
  )
- (signal 5e869350-3239-4229-b6dc-5c7f7a3eb734 (name "RESET") (role passive)
+ (signal 5e869350-3239-4229-b6dc-5c7f7a3eb734 (name "!RESET") (role passive)
   (required false) (negated false) (clock false) (forced_net "")
  )
  (signal f20f7fca-45e2-4bb8-b56f-9def0919a9f0 (name "PC5/TDI") (role passive)

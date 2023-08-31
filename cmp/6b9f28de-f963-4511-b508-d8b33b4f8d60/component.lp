@@ -35,7 +35,7 @@
  (signal fc78dbd7-d15e-45a3-a56d-3e4481309e40 (name "PGC_INT") (role passive)
   (required false) (negated false) (clock false) (forced_net "")
  )
- (signal 20d25de7-8623-4856-a0b9-fb238fa0e1b7 (name "nRESET") (role passive)
+ (signal 20d25de7-8623-4856-a0b9-fb238fa0e1b7 (name "!RESET") (role passive)
   (required false) (negated false) (clock false) (forced_net "")
  )
  (signal 76b6ddba-7535-4c41-8351-ab9d97514ebf (name "GPIO11") (role passive)

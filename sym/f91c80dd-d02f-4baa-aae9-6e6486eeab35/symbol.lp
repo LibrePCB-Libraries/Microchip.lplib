@@ -13,7 +13,7 @@
   (name_position 3.81 0.0) (name_rotation 0.0) (name_height 2.5)
   (name_align left center)
  )
- (pin 6b564fc3-89a8-4403-9aee-6e7d543ae537 (name "nRESET")
+ (pin 6b564fc3-89a8-4403-9aee-6e7d543ae537 (name "!RESET")
   (position -15.24 20.32) (rotation 0.0) (length 2.54)
   (name_position 3.81 0.0) (name_rotation 0.0) (name_height 2.5)
   (name_align left center)
