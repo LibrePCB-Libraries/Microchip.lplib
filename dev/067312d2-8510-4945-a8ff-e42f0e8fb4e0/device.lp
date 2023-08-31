@@ -3,7 +3,7 @@
  (description "Low-Power 10-Bit A/D Converter with I²C Interface.\n\nThis part is available with different address options.")
  (keywords "mcp3021,adc,i2c,10bit")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.2")
  (created 2018-04-03T22:27:47Z)
  (deprecated false)
  (generated_by "")

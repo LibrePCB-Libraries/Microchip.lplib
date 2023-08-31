@@ -3,7 +3,7 @@
  (description "Atmel ATtiny85 20MHz 2.7-5.5V PDIP")
  (keywords "attiny,attiny85,avr,atmel,microcontroller")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.2")
  (created 2018-11-01T22:49:25Z)
  (deprecated false)
  (generated_by "")

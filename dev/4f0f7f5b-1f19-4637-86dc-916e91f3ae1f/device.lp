@@ -3,7 +3,7 @@
  (description "Atmel ATtiny85 10MHz 1.8-5.5V PDIP")
  (keywords "attiny,attiny85,avr,atmel,microcontroller")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.2")
  (created 2018-11-01T22:51:01Z)
  (deprecated false)
  (generated_by "")

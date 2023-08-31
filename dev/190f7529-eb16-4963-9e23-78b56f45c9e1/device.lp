@@ -3,7 +3,7 @@
  (description "Low-Power Long Range LoRa Technology Transceiver Module.")
  (keywords "rn2483,rn2483a,lorawan,lora,transceiver")
  (author "Danilo B.")
- (version "0.1")
+ (version "0.2")
  (created 2019-01-27T00:48:03Z)
  (deprecated false)
  (generated_by "")

@@ -3,7 +3,7 @@
  (description "The MCP73831 is a single-cell Li-Ion/Li-Polymer battery charge controller.\n\nVREG: 4.20V\nOption: AC\nPackage: SOT-23-5, tape&reel")
  (keywords "MCP73831,liion,li-ion,lipo,li-po")
  (author "Danilo Bargen")
- (version "0.1.1")
+ (version "0.2")
  (created 2020-10-30T00:12:16Z)
  (deprecated false)
  (generated_by "")

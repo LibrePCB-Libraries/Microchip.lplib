@@ -3,7 +3,7 @@
  (description "Atmel 8-bit AVR Microcontroller with 1 kilobyte in-system programmable flash.")
  (keywords "attiny,atmel,avr,8bit")
  (author "steve")
- (version "0.1")
+ (version "0.1.1")
  (created 2020-05-15T00:41:23Z)
  (deprecated false)
  (generated_by "")

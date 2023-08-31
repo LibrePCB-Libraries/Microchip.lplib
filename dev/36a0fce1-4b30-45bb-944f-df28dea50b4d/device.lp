@@ -3,7 +3,7 @@
  (description "Atmel ATtiny13A 20MHz 1.8-5.5V SOIC")
  (keywords "attiny,attiny13,attiny13a,avr,atmel,microcontroller")
  (author "Steve Sanbeg")
- (version "0.1")
+ (version "0.2")
  (created 2020-05-15T00:44:10Z)
  (deprecated false)
  (generated_by "")

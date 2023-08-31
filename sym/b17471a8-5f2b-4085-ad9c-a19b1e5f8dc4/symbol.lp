@@ -3,7 +3,7 @@
  (description "Low power, CMOS 8-bit microcontrollers based on the AVR® enhanced RISC architecture with 32 KB Flash, 2 KB SRAM and 1 KB EEPROM.")
  (keywords "atmega,atmel,avr,8bit,RISC")
  (author "Ian Liu Rodrigues")
- (version "0.1")
+ (version "0.1.1")
  (created 2020-10-07T18:38:32Z)
  (deprecated false)
  (generated_by "")

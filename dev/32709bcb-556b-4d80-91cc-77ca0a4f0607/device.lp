@@ -3,7 +3,7 @@
  (description "")
  (keywords "")
  (author "Ian Liu Rodrigues")
- (version "0.1")
+ (version "0.2")
  (created 2020-10-07T19:43:34Z)
  (deprecated false)
  (generated_by "")

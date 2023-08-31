@@ -3,7 +3,7 @@
  (description "Low-Power 12-Bit A/D Converter with I²C Interface.\n\nThis part is available with different address options.")
  (keywords "mcp3221,adc,i2c,12bit")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.2")
  (created 2018-12-02T15:13:53Z)
  (deprecated false)
  (generated_by "")
