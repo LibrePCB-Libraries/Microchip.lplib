@@ -9,5 +9,5 @@
  (url "https://github.com/LibrePCB-Libraries/Microchip.lplib")
  (dependency 326f091b-b715-44bf-b385-b613cd60d9f3)
  (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
- (manufacturer "")
+ (manufacturer "Microchip Technology")
 )
