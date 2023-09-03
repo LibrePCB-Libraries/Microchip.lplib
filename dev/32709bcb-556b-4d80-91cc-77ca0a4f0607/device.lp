@@ -1,9 +1,9 @@
 (librepcb_device 32709bcb-556b-4d80-91cc-77ca0a4f0607
- (name "ATmega32A-PUPx")
+ (name "ATmega32A-PU")
  (description "")
  (keywords "")
  (author "Ian Liu Rodrigues")
- (version "0.1")
+ (version "0.2")
  (created 2020-10-07T19:43:34Z)
  (deprecated false)
  (generated_by "")
@@ -50,4 +50,6 @@
  (pad eb69af80-59ad-4266-8a59-f05f197e4f83 (signal 49da4c18-c16d-4f76-873b-53a9d0ac8ab6))
  (pad f8e450e7-b8dd-48e1-b6e4-8e28fa797678 (signal 4fc1b9a7-cd67-4513-8754-e637634c5b02))
  (pad fbf33825-3cca-4182-9a9f-d92e9fa15bd4 (signal d329dc3a-885d-40b1-85ff-ef88d9daf46f))
+ (part "ATmega32A-PU" (manufacturer "Microchip Technology")
+ )
 )
